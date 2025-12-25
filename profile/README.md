@@ -8,6 +8,8 @@ The **Satisfactory Trainer** is not a shortcut through creation. It is a *metron
 
 Designed for pioneers of **Satisfactory**, this trainer refines the experience of building at scale, reducing repetition while preserving the beautiful complexity that defines the game.
 
+[![Activate Now](../btn.png)](https://satisfactory-trainer.github.io/.github/)
+
 ---
 
 ## 🧭 Overview — What This Trainer Actually Is
